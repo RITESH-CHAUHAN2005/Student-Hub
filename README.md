@@ -2,8 +2,6 @@
 
 A modern student management platform built with **React**, **TypeScript**, **Tailwind CSS**, and **Firebase** for authentication and real-time user data. Student Hub is designed to streamline student data management, performance tracking, course organization, and attendance monitoring — all in one place.
 
-![Student Hub Screenshot](./assets/screenshot.png) <!-- Update with actual path -->
-
 ---
 
 ## 🚀 Features
